@@ -1,0 +1,321 @@
+state,service_type,failure_reason,total_failures,failure_percent
+Punjab,Loans,Incorrect Details,22,0.63
+Haryana,Loans,Insufficient Balance,20,0.58
+Delhi,Money Transfer,Network Issue,19,0.55
+Karnataka,Insurance,Server Error,19,0.55
+Assam,Money Transfer,Incorrect Details,19,0.55
+Andhra Pradesh,Recharge & Bills,Bank Timeout,19,0.55
+Maharashtra,Recharge & Bills,Network Issue,19,0.55
+West Bengal,Loans,Bank Timeout,19,0.55
+Haryana,Recharge & Bills,Bank Timeout,18,0.52
+Bihar,Money Transfer,Server Error,18,0.52
+West Bengal,Recharge & Bills,Insufficient Balance,17,0.49
+Uttar Pradesh,Loans,Bank Timeout,17,0.49
+Andhra Pradesh,Loans,Bank Timeout,17,0.49
+Maharashtra,Loans,Server Error,17,0.49
+Gujarat,Money Transfer,Server Error,17,0.49
+Goa,Loans,Bank Timeout,16,0.46
+Karnataka,Insurance,Bank Timeout,16,0.46
+Assam,Recharge & Bills,Insufficient Balance,16,0.46
+Haryana,Money Transfer,Server Error,16,0.46
+Goa,Loans,Insufficient Balance,16,0.46
+Punjab,Insurance,Server Error,16,0.46
+Odisha,Money Transfer,Server Error,16,0.46
+Karnataka,Loans,Incorrect Details,16,0.46
+Punjab,Money Transfer,Incorrect Details,16,0.46
+Punjab,Insurance,Insufficient Balance,16,0.46
+West Bengal,Loans,Server Error,16,0.46
+Delhi,Money Transfer,Incorrect Details,15,0.43
+Andhra Pradesh,Loans,Server Error,15,0.43
+Assam,Insurance,Insufficient Balance,15,0.43
+Goa,Money Transfer,Incorrect Details,15,0.43
+West Bengal,Recharge & Bills,Bank Timeout,15,0.43
+Andhra Pradesh,Insurance,Incorrect Details,15,0.43
+Maharashtra,Insurance,Network Issue,15,0.43
+Bihar,Insurance,Network Issue,15,0.43
+Goa,Insurance,Server Error,15,0.43
+Maharashtra,Recharge & Bills,Incorrect Details,15,0.43
+Gujarat,Loans,Incorrect Details,15,0.43
+Kerala,Loans,Bank Timeout,15,0.43
+Haryana,Insurance,Network Issue,15,0.43
+Kerala,Insurance,Incorrect Details,15,0.43
+Tamil Nadu,Insurance,Server Error,15,0.43
+Odisha,Recharge & Bills,Bank Timeout,15,0.43
+Gujarat,Insurance,Bank Timeout,15,0.43
+Assam,Insurance,Network Issue,15,0.43
+Maharashtra,Money Transfer,Bank Timeout,15,0.43
+Delhi,Insurance,Insufficient Balance,15,0.43
+Rajasthan,Recharge & Bills,Incorrect Details,15,0.43
+Bihar,Recharge & Bills,Bank Timeout,14,0.4
+Odisha,Money Transfer,Bank Timeout,14,0.4
+Gujarat,Loans,Bank Timeout,14,0.4
+Rajasthan,Money Transfer,Incorrect Details,14,0.4
+Haryana,Loans,Incorrect Details,14,0.4
+Kerala,Recharge & Bills,Server Error,14,0.4
+Uttar Pradesh,Insurance,Bank Timeout,14,0.4
+Punjab,Recharge & Bills,Insufficient Balance,14,0.4
+Maharashtra,Money Transfer,Network Issue,14,0.4
+West Bengal,Loans,Network Issue,14,0.4
+Goa,Insurance,Incorrect Details,14,0.4
+Kerala,Loans,Insufficient Balance,14,0.4
+Punjab,Money Transfer,Bank Timeout,14,0.4
+Kerala,Recharge & Bills,Incorrect Details,14,0.4
+Tamil Nadu,Money Transfer,Bank Timeout,14,0.4
+Delhi,Insurance,Network Issue,14,0.4
+Rajasthan,Money Transfer,Server Error,14,0.4
+Punjab,Insurance,Network Issue,14,0.4
+Kerala,Recharge & Bills,Network Issue,14,0.4
+Bihar,Insurance,Incorrect Details,14,0.4
+Kerala,Money Transfer,Bank Timeout,13,0.37
+Rajasthan,Insurance,Insufficient Balance,13,0.37
+Delhi,Money Transfer,Insufficient Balance,13,0.37
+Karnataka,Money Transfer,Insufficient Balance,13,0.37
+Odisha,Loans,Server Error,13,0.37
+Delhi,Loans,Insufficient Balance,13,0.37
+Assam,Money Transfer,Bank Timeout,13,0.37
+Uttar Pradesh,Insurance,Insufficient Balance,13,0.37
+Odisha,Recharge & Bills,Insufficient Balance,13,0.37
+West Bengal,Recharge & Bills,Server Error,13,0.37
+Delhi,Insurance,Server Error,13,0.37
+Delhi,Money Transfer,Bank Timeout,13,0.37
+Bihar,Loans,Network Issue,13,0.37
+Maharashtra,Insurance,Server Error,13,0.37
+West Bengal,Insurance,Network Issue,13,0.37
+Assam,Recharge & Bills,Server Error,13,0.37
+Punjab,Loans,Insufficient Balance,13,0.37
+Tamil Nadu,Loans,Bank Timeout,13,0.37
+Andhra Pradesh,Recharge & Bills,Network Issue,13,0.37
+Maharashtra,Money Transfer,Insufficient Balance,13,0.37
+Maharashtra,Insurance,Bank Timeout,13,0.37
+Gujarat,Recharge & Bills,Server Error,13,0.37
+Haryana,Money Transfer,Bank Timeout,12,0.35
+Karnataka,Loans,Network Issue,12,0.35
+Andhra Pradesh,Insurance,Bank Timeout,12,0.35
+Karnataka,Loans,Insufficient Balance,12,0.35
+Goa,Insurance,Bank Timeout,12,0.35
+West Bengal,Insurance,Incorrect Details,12,0.35
+Gujarat,Money Transfer,Incorrect Details,12,0.35
+Haryana,Insurance,Server Error,12,0.35
+Tamil Nadu,Recharge & Bills,Bank Timeout,12,0.35
+Punjab,Recharge & Bills,Bank Timeout,12,0.35
+Gujarat,Recharge & Bills,Incorrect Details,12,0.35
+Delhi,Money Transfer,Server Error,12,0.35
+Maharashtra,Recharge & Bills,Bank Timeout,12,0.35
+Assam,Recharge & Bills,Bank Timeout,12,0.35
+Kerala,Money Transfer,Server Error,12,0.35
+Assam,Insurance,Bank Timeout,12,0.35
+Andhra Pradesh,Loans,Network Issue,12,0.35
+Rajasthan,Money Transfer,Bank Timeout,12,0.35
+Kerala,Insurance,Network Issue,12,0.35
+Rajasthan,Loans,Incorrect Details,12,0.35
+Tamil Nadu,Recharge & Bills,Network Issue,12,0.35
+Uttar Pradesh,Loans,Insufficient Balance,12,0.35
+Gujarat,Insurance,Network Issue,12,0.35
+Maharashtra,Loans,Incorrect Details,12,0.35
+Odisha,Loans,Incorrect Details,12,0.35
+Andhra Pradesh,Loans,Insufficient Balance,12,0.35
+Karnataka,Insurance,Network Issue,12,0.35
+Bihar,Insurance,Server Error,12,0.35
+Gujarat,Money Transfer,Insufficient Balance,12,0.35
+Tamil Nadu,Insurance,Insufficient Balance,12,0.35
+Uttar Pradesh,Loans,Server Error,12,0.35
+Uttar Pradesh,Recharge & Bills,Bank Timeout,12,0.35
+Uttar Pradesh,Insurance,Server Error,12,0.35
+Andhra Pradesh,Recharge & Bills,Insufficient Balance,12,0.35
+Goa,Recharge & Bills,Incorrect Details,12,0.35
+Karnataka,Money Transfer,Bank Timeout,11,0.32
+Uttar Pradesh,Recharge & Bills,Incorrect Details,11,0.32
+Goa,Loans,Incorrect Details,11,0.32
+West Bengal,Insurance,Bank Timeout,11,0.32
+Bihar,Recharge & Bills,Insufficient Balance,11,0.32
+Bihar,Loans,Server Error,11,0.32
+Bihar,Insurance,Insufficient Balance,11,0.32
+West Bengal,Recharge & Bills,Network Issue,11,0.32
+Haryana,Recharge & Bills,Insufficient Balance,11,0.32
+Odisha,Loans,Insufficient Balance,11,0.32
+Odisha,Insurance,Server Error,11,0.32
+Rajasthan,Loans,Bank Timeout,11,0.32
+Karnataka,Recharge & Bills,Incorrect Details,11,0.32
+Rajasthan,Recharge & Bills,Insufficient Balance,11,0.32
+Maharashtra,Loans,Network Issue,11,0.32
+Punjab,Loans,Bank Timeout,11,0.32
+Delhi,Recharge & Bills,Insufficient Balance,11,0.32
+Maharashtra,Insurance,Insufficient Balance,11,0.32
+Odisha,Recharge & Bills,Network Issue,11,0.32
+Rajasthan,Insurance,Network Issue,11,0.32
+Rajasthan,Recharge & Bills,Server Error,11,0.32
+West Bengal,Money Transfer,Network Issue,11,0.32
+Karnataka,Money Transfer,Server Error,11,0.32
+West Bengal,Money Transfer,Incorrect Details,11,0.32
+Gujarat,Money Transfer,Bank Timeout,11,0.32
+Maharashtra,Recharge & Bills,Server Error,11,0.32
+Goa,Loans,Server Error,11,0.32
+Tamil Nadu,Money Transfer,Incorrect Details,11,0.32
+Karnataka,Insurance,Insufficient Balance,11,0.32
+Tamil Nadu,Loans,Insufficient Balance,11,0.32
+West Bengal,Money Transfer,Insufficient Balance,11,0.32
+Tamil Nadu,Insurance,Incorrect Details,11,0.32
+Bihar,Money Transfer,Bank Timeout,11,0.32
+Kerala,Money Transfer,Network Issue,11,0.32
+Karnataka,Loans,Bank Timeout,11,0.32
+Goa,Money Transfer,Network Issue,11,0.32
+Uttar Pradesh,Loans,Incorrect Details,11,0.32
+Odisha,Money Transfer,Network Issue,10,0.29
+Tamil Nadu,Money Transfer,Insufficient Balance,10,0.29
+Delhi,Loans,Server Error,10,0.29
+Assam,Loans,Server Error,10,0.29
+Punjab,Recharge & Bills,Network Issue,10,0.29
+Uttar Pradesh,Recharge & Bills,Server Error,10,0.29
+Punjab,Recharge & Bills,Server Error,10,0.29
+Karnataka,Money Transfer,Incorrect Details,10,0.29
+Bihar,Loans,Insufficient Balance,10,0.29
+Rajasthan,Insurance,Incorrect Details,10,0.29
+Goa,Recharge & Bills,Insufficient Balance,10,0.29
+Maharashtra,Insurance,Incorrect Details,10,0.29
+Tamil Nadu,Loans,Incorrect Details,10,0.29
+Gujarat,Recharge & Bills,Bank Timeout,10,0.29
+Kerala,Loans,Network Issue,10,0.29
+Uttar Pradesh,Money Transfer,Bank Timeout,10,0.29
+Uttar Pradesh,Recharge & Bills,Insufficient Balance,10,0.29
+Odisha,Insurance,Incorrect Details,10,0.29
+Haryana,Recharge & Bills,Incorrect Details,10,0.29
+Maharashtra,Money Transfer,Server Error,10,0.29
+Punjab,Money Transfer,Network Issue,10,0.29
+Haryana,Money Transfer,Insufficient Balance,10,0.29
+Uttar Pradesh,Insurance,Network Issue,10,0.29
+Delhi,Insurance,Bank Timeout,10,0.29
+Andhra Pradesh,Insurance,Insufficient Balance,10,0.29
+Bihar,Money Transfer,Insufficient Balance,10,0.29
+Andhra Pradesh,Money Transfer,Insufficient Balance,10,0.29
+Andhra Pradesh,Loans,Incorrect Details,10,0.29
+Tamil Nadu,Insurance,Network Issue,10,0.29
+Uttar Pradesh,Insurance,Incorrect Details,10,0.29
+Haryana,Loans,Server Error,10,0.29
+West Bengal,Loans,Insufficient Balance,10,0.29
+Bihar,Recharge & Bills,Incorrect Details,10,0.29
+Bihar,Recharge & Bills,Server Error,10,0.29
+Maharashtra,Loans,Insufficient Balance,10,0.29
+Delhi,Loans,Bank Timeout,10,0.29
+Goa,Loans,Network Issue,10,0.29
+Assam,Loans,Bank Timeout,10,0.29
+Haryana,Loans,Bank Timeout,10,0.29
+Uttar Pradesh,Recharge & Bills,Network Issue,10,0.29
+Karnataka,Recharge & Bills,Bank Timeout,10,0.29
+Punjab,Money Transfer,Insufficient Balance,10,0.29
+Uttar Pradesh,Money Transfer,Insufficient Balance,10,0.29
+Haryana,Loans,Network Issue,10,0.29
+Maharashtra,Loans,Bank Timeout,9,0.26
+Haryana,Insurance,Incorrect Details,9,0.26
+Odisha,Insurance,Bank Timeout,9,0.26
+Haryana,Recharge & Bills,Network Issue,9,0.26
+Andhra Pradesh,Money Transfer,Server Error,9,0.26
+Assam,Recharge & Bills,Incorrect Details,9,0.26
+Assam,Money Transfer,Network Issue,9,0.26
+Assam,Insurance,Server Error,9,0.26
+Uttar Pradesh,Money Transfer,Server Error,9,0.26
+Bihar,Recharge & Bills,Network Issue,9,0.26
+Tamil Nadu,Money Transfer,Network Issue,9,0.26
+Kerala,Insurance,Server Error,9,0.26
+Tamil Nadu,Recharge & Bills,Insufficient Balance,9,0.26
+Delhi,Recharge & Bills,Server Error,9,0.26
+Goa,Recharge & Bills,Network Issue,9,0.26
+Kerala,Insurance,Bank Timeout,9,0.26
+Haryana,Money Transfer,Incorrect Details,9,0.26
+Kerala,Money Transfer,Incorrect Details,9,0.26
+Rajasthan,Loans,Server Error,9,0.26
+Goa,Money Transfer,Insufficient Balance,9,0.26
+Gujarat,Loans,Insufficient Balance,9,0.26
+Odisha,Insurance,Insufficient Balance,9,0.26
+West Bengal,Recharge & Bills,Incorrect Details,9,0.26
+Andhra Pradesh,Insurance,Server Error,9,0.26
+Gujarat,Loans,Network Issue,9,0.26
+Rajasthan,Insurance,Bank Timeout,9,0.26
+Assam,Loans,Insufficient Balance,9,0.26
+Haryana,Money Transfer,Network Issue,9,0.26
+Karnataka,Insurance,Incorrect Details,9,0.26
+Bihar,Loans,Bank Timeout,9,0.26
+Haryana,Recharge & Bills,Server Error,9,0.26
+Odisha,Loans,Network Issue,8,0.23
+Bihar,Loans,Incorrect Details,8,0.23
+Odisha,Recharge & Bills,Incorrect Details,8,0.23
+Maharashtra,Money Transfer,Incorrect Details,8,0.23
+Kerala,Loans,Server Error,8,0.23
+Punjab,Loans,Network Issue,8,0.23
+West Bengal,Money Transfer,Server Error,8,0.23
+Andhra Pradesh,Money Transfer,Network Issue,8,0.23
+Rajasthan,Money Transfer,Insufficient Balance,8,0.23
+Rajasthan,Recharge & Bills,Network Issue,8,0.23
+West Bengal,Money Transfer,Bank Timeout,8,0.23
+Uttar Pradesh,Loans,Network Issue,8,0.23
+Bihar,Money Transfer,Incorrect Details,8,0.23
+Delhi,Recharge & Bills,Network Issue,8,0.23
+Tamil Nadu,Money Transfer,Server Error,8,0.23
+Uttar Pradesh,Money Transfer,Network Issue,8,0.23
+Delhi,Recharge & Bills,Incorrect Details,8,0.23
+Andhra Pradesh,Recharge & Bills,Incorrect Details,8,0.23
+Rajasthan,Loans,Network Issue,8,0.23
+Kerala,Money Transfer,Insufficient Balance,8,0.23
+Andhra Pradesh,Money Transfer,Bank Timeout,8,0.23
+Punjab,Recharge & Bills,Incorrect Details,8,0.23
+Rajasthan,Money Transfer,Network Issue,8,0.23
+Uttar Pradesh,Money Transfer,Incorrect Details,8,0.23
+Odisha,Money Transfer,Insufficient Balance,8,0.23
+Assam,Loans,Incorrect Details,8,0.23
+Goa,Money Transfer,Server Error,8,0.23
+Maharashtra,Recharge & Bills,Insufficient Balance,8,0.23
+West Bengal,Insurance,Insufficient Balance,8,0.23
+Andhra Pradesh,Recharge & Bills,Server Error,8,0.23
+Andhra Pradesh,Insurance,Network Issue,8,0.23
+Rajasthan,Insurance,Server Error,8,0.23
+Gujarat,Insurance,Insufficient Balance,8,0.23
+Haryana,Insurance,Bank Timeout,8,0.23
+Rajasthan,Recharge & Bills,Bank Timeout,8,0.23
+Rajasthan,Loans,Insufficient Balance,8,0.23
+Bihar,Money Transfer,Network Issue,8,0.23
+Punjab,Insurance,Incorrect Details,8,0.23
+Kerala,Loans,Incorrect Details,8,0.23
+Odisha,Recharge & Bills,Server Error,8,0.23
+Gujarat,Recharge & Bills,Network Issue,7,0.2
+Punjab,Money Transfer,Server Error,7,0.2
+Goa,Recharge & Bills,Bank Timeout,7,0.2
+Karnataka,Loans,Server Error,7,0.2
+Tamil Nadu,Recharge & Bills,Incorrect Details,7,0.2
+Andhra Pradesh,Money Transfer,Incorrect Details,7,0.2
+Gujarat,Money Transfer,Network Issue,7,0.2
+Assam,Money Transfer,Server Error,7,0.2
+Assam,Insurance,Incorrect Details,7,0.2
+Punjab,Loans,Server Error,7,0.2
+Bihar,Insurance,Bank Timeout,7,0.2
+Tamil Nadu,Loans,Server Error,7,0.2
+Odisha,Loans,Bank Timeout,7,0.2
+Gujarat,Insurance,Incorrect Details,7,0.2
+Delhi,Loans,Incorrect Details,7,0.2
+Gujarat,Recharge & Bills,Insufficient Balance,7,0.2
+Gujarat,Insurance,Server Error,7,0.2
+Karnataka,Recharge & Bills,Server Error,7,0.2
+Delhi,Recharge & Bills,Bank Timeout,7,0.2
+Delhi,Loans,Network Issue,7,0.2
+Odisha,Money Transfer,Incorrect Details,7,0.2
+Assam,Money Transfer,Insufficient Balance,7,0.2
+Karnataka,Recharge & Bills,Insufficient Balance,7,0.2
+Assam,Loans,Network Issue,7,0.2
+Haryana,Insurance,Insufficient Balance,6,0.17
+Delhi,Insurance,Incorrect Details,6,0.17
+Gujarat,Loans,Server Error,6,0.17
+Goa,Money Transfer,Bank Timeout,6,0.17
+Kerala,Recharge & Bills,Insufficient Balance,6,0.17
+West Bengal,Loans,Incorrect Details,6,0.17
+Assam,Recharge & Bills,Network Issue,6,0.17
+Tamil Nadu,Recharge & Bills,Server Error,6,0.17
+Goa,Insurance,Insufficient Balance,5,0.14
+Kerala,Insurance,Insufficient Balance,5,0.14
+Odisha,Insurance,Network Issue,5,0.14
+Tamil Nadu,Insurance,Bank Timeout,5,0.14
+Goa,Recharge & Bills,Server Error,5,0.14
+Karnataka,Recharge & Bills,Network Issue,5,0.14
+Kerala,Recharge & Bills,Bank Timeout,5,0.14
+Goa,Insurance,Network Issue,5,0.14
+Tamil Nadu,Loans,Network Issue,4,0.12
+Karnataka,Money Transfer,Network Issue,4,0.12
+West Bengal,Insurance,Server Error,4,0.12
+Punjab,Insurance,Bank Timeout,3,0.09
