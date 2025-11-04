@@ -2,7 +2,8 @@
 
 ### 🚀 Comprehensive UPI Business Intelligence Project | ETL · SQL · BigQuery · Power BI
 
-![Dashboard Banner]((https://github.com/Adarsh-Singh-codes/PhonePe-Business-Analytics/blob/main/visuals/Gen%20ai%20Genetrated%20infographics/Phonpe%20Dashboard%20-%20POWER_BI_pages-to-jpg-0001.jpg))
+![Dashboard Image](https://raw.githubusercontent.com/Adarsh-Singh-codes/PhonePe-Business-Analytics/main/visuals/Gen%20ai%20Genetrated%20infographics/Phonpe%20Dashboard%20-%20POWER_BI_pages-to-jpg-0001.jpg)
+
 *End-to-End BI Project by Adarsh Ajit Singh*
 
 ---
@@ -21,7 +22,8 @@ The result is a *comprehensive digital payments intelligence dashboard*, providi
 ### **1️⃣ Data Source Layer (Raw Data)**
 - UPI transaction datasets from multiple domains (Money Transfer, Bills, Insurance, Loans).
 - Data formats: `.csv`, `.xlsx`
-![ETL - PYTHON]((https://github.com/Adarsh-Singh-codes/PhonePe-Business-Analytics/blob/main/visuals/Gen%20ai%20Genetrated%20infographics/Phonpe%20Dashboard%20-%20POWER_BI_pages-to-jpg-0001.jpg)](https://github.com/Adarsh-Singh-codes/PhonePe-Business-Analytics/blob/main/visuals/Screenshot%20(20).png))
+![PYTHON-ETL](https://raw.githubusercontent.com/Adarsh-Singh-codes/PhonePe-Business-Analytics/main/visuals/Screenshot%20(20).png)
+
 ### **2️⃣ ETL Layer (Python + Google Colab)**
 Performed in **Google Colab**, using `pandas` for:
 - Data cleaning and standardization
