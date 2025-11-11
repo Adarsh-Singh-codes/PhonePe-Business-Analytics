@@ -59,7 +59,7 @@ Developed multi-page interactive dashboards for:
 - Failure & Performance Metrics
 
 ---
-![UPI]([https://github.com/Adarsh-Singh-codes/PhonePe-Business-Analytics/blob/main/visuals/Gen%20ai%20Genetrated%20infographics/Phonpe%20Dashboard%20-%20POWER_BI_pages-to-jpg-0005.jpg](https://github.com/Adarsh-Singh-codes/PhonePe-Business-Analytics/blob/main/visuals/Gen%20ai%20Genetrated%20infographics/Gemini_Generated_Image_o368wto368wto368.png))
+[![PhonePe Dashboard](./visuals/Gen%20ai%20Genetrated%20infographics/Phonpe%20Dashboard%20-%20POWER_BI_pages-to-jpg-0006.jpg)](visuals/Gen%20ai%20Genetrated%20infographics/Phonpe%20Dashboard%20-%20POWER_BI_pages-to-jpg-0006.jpg)
 
 ## 🧠 Business Insights
 
